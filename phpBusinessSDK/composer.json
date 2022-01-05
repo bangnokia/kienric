@@ -1,0 +1,13 @@
+{
+    "name": "name/{AdHuso New}",
+    "type": "project",
+    "require": {
+        "facebook/php-business-sdk": "^3.0.0"
+    },
+    "authors": [
+        {
+            "name": "Saad Afzal",
+            "email": "saad.afzal8989@gmail.com"
+        }
+    ]
+}
