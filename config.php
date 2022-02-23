@@ -18,7 +18,7 @@ if ($kunloc->connect_error) die('Error : ('. $kunloc->connect_errno .') '. $kunl
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 $WEBSITE_URL = 'https://kienric.test';
 $app_ids = 'xxx';
-$app_secrets = 'xxxxx';
+$app_secrets = 'xxx';
 
 $kunloc->query("CREATE TABLE `user_facebook` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
